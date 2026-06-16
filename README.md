@@ -23,30 +23,19 @@ Designed for developers who want a sleek and professional online presence.
 
 ---
 
+
+<img width="1731" height="3802" alt="image" src="https://github.com/user-attachments/assets/c3762b5e-5a76-44c0-9c41-73f40e0d121b" />
+
 ## 🛠️ Tech Stack
 
-- C++
-- Java
 - JavaScript
-- Python
-- TypeScript
-- React
 - Node.js
 - MongoDB
-- Google Cloud
-- GitHub
-- Git
-- Figma
+- Html
+- CSS
 
 ---
 
-## 📂 Sections Included
-
-### 👤 Hero Section
-Introduction with name, title, and short bio.
-
-### 🧩 Tech Stack
-Displays technologies and tools used.
 
 ### 💻 Featured Projects
 Project showcase cards with:
