@@ -6,8 +6,7 @@ Designed for developers who want a sleek and professional online presence.
 ---
 
 ## 🔗 Live Repository
-
-👉 [GitHub Portfolio Repository](https://github.com/bhardwajyuvika2305/bhardwajyuvika2305.github.io-Personal-Portfolio)
+Live Application: **[Click Here to View Live App](https://github.com/bhardwajyuvika2305/bhardwajyuvika2305.github.io-Personal-Portfolio)**
 
 ---
 
